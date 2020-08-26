@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/q2ePk5TyEq8da/giphy.gif" width="250" />
   <br>
   <br>
-  <a href="https://github.com/desko27"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/github.svg" valign="middle" />&nbsp; <samp>Github</samp></a>
+  <a href="https://github.com/desko27"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/github.svg" valign="middle" />&nbsp; <samp>GitHub</samp></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/desko27"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" valign="middle" />&nbsp; <samp>Twitter</samp></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
