@@ -24,4 +24,5 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/desko27"><img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" valign="middle" />&nbsp; <samp>Linked In</samp></a>
   <br>
+  <br>
 </p>
