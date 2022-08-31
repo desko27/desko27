@@ -8,6 +8,8 @@
   <br>
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/javascript.svg" />
   &nbsp;
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/typescript.svg" />
+  &nbsp;
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/react.svg" />
   &nbsp;
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/vuedotjs.svg" />
