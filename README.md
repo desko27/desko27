@@ -1,6 +1,8 @@
 <p align="center">
   <br>
-  <code>→ npx desko27</code>
+  <a href="https://desko.dev" target="_blank">
+    » <code>desko.dev</code> «
+  </a>
   <br>
   <br>
   <samp>Hey there. I'm Ismael.<br> I enjoy coding and ramen.</samp>
