@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <a href="https://desko.dev" target="_blank">
-    » <code>desko.dev</code> «
+    ✨ desko.dev ✨
   </a>
   <br>
   <br>
