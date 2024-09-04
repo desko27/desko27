@@ -55,11 +55,11 @@
     <img alt="GitHub" height="24" width="24" src="https://api.iconify.design/simple-icons/github.svg?color=rgb(9%2C105%2C218)" valign="middle">
   </picture>&nbsp; <samp>GitHub</samp></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/desko27"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/twitter.svg?color=rgb(88%2C166%2C255)">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/twitter.svg?color=rgb(9%2C105%2C218)">
-    <img alt="Twitter" height="24" width="24" src="https://api.iconify.design/simple-icons/twitter.svg?color=rgb(9%2C105%2C218)" valign="middle">
-  </picture>&nbsp; <samp>Twitter</samp></a>
+  <a href="https://x.com/desko27"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/x.svg?color=rgb(88%2C166%2C255)">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/x.svg?color=rgb(9%2C105%2C218)">
+    <img alt="X" height="24" width="24" src="https://api.iconify.design/simple-icons/x.svg?color=rgb(9%2C105%2C218)" valign="middle">
+  </picture>&nbsp; <samp>@desko27</samp></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/desko27"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/linkedin.svg?color=rgb(88%2C166%2C255)">
